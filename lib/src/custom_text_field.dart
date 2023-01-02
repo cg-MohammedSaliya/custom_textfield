@@ -14,7 +14,7 @@ class CustomTextField extends StatefulWidget {
         this.validator,
         this.numberORtext = true,
         this.maxTextLength = 0,
-        
+
         required this.hintText,
         this.outlineInputBorder = true,
         this.borderRadius = 12,
